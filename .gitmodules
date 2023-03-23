@@ -18,3 +18,13 @@
 	url = https://github.com/adamtclark/multispatialccm
 	shallow = true
 	registered = true
+[submodule "partitionBEFsp"]
+	path = partitionBEFsp
+	url = https://github.com/cran/partitionBEFsp
+	shallow = true
+	registered = true
+[submodule "pttstability"]
+	path = pttstability
+	url = https://github.com/cran/pttstability
+	shallow = true
+	registered = true
