@@ -1,30 +1,19 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ecostatscale"]
 	path = ecostatscale
 	url = https://github.com/adamtclark/ecostatscale
-	shallow = true
-	registered = true
 [submodule "gauseR"]
 	path = gauseR
 	url = https://github.com/adamtclark/gauser
-	shallow = true
-	registered = true
 [submodule "multispatialCCM"]
 	path = multispatialCCM
 	url = https://github.com/adamtclark/multispatialccm
-	shallow = true
-	registered = true
 [submodule "partitionBEFsp"]
 	path = partitionBEFsp
 	url = https://github.com/cran/partitionBEFsp
-	shallow = true
-	registered = true
 [submodule "pttstability"]
 	path = pttstability
 	url = https://github.com/cran/pttstability
-	shallow = true
-	registered = true
